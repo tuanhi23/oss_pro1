@@ -72,10 +72,10 @@ try {
     <?php endif; ?>
 
   <section class="hero">
-    <img src="assets/image/1234.jpg" class="hero-img">
+    <img src="/assets/image/1234.jpg" class="hero-img">
 
     <div class="hero-text">
-        <h1>Thuc hanh ma nguon mo - Pham Anh Tuan - DH52102001</h1>
+        <h1>Xin chào</h1>
         <p>Khám phá cuốn sách yêu thích tiếp theo của bạn</p>
     </div>
 </section>
