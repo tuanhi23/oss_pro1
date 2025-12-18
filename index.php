@@ -75,7 +75,7 @@ try {
     <img src="assets/image/anhnen.jpg" class="hero-img">
 
     <div class="hero-text">
-        <h2>Chào Mừng Đến Cửa Hàng Sách of TuanPham</h2>
+        <h1>Thuc hanh ma nguon mo - Pham Anh Tuan</h1>
         <p>Khám phá cuốn sách yêu thích tiếp theo của bạn</p>
     </div>
 </section>
