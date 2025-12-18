@@ -75,7 +75,7 @@ try {
     <img src="/assets/image/1234.jpg" class="hero-img">
 
     <div class="hero-text">
-        <h1>Xin chào</h1>
+        <h1>Xin chào bạn đến với cửa hàng sách của chúng tôi</h1>
         <p>Khám phá cuốn sách yêu thích tiếp theo của bạn</p>
     </div>
 </section>
