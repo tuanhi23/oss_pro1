@@ -75,8 +75,8 @@ try {
     <img src="/assets/image/1234.jpg" class="hero-img">
 
     <div class="hero-text">
-        <h2>Xin chào </h2>
-        <p>Khám phá cuốn sách yêu thích tiếp theo của bạn</p>
+        <h1>PM1_Cuối kỳ_Phạm Anh Tuấn </h1>
+        
     </div>
 </section>
     <!-- ========================
